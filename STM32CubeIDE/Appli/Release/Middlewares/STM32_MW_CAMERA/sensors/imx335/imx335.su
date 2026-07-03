@@ -1,0 +1,15 @@
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:365:16:IMX335_ReadRegWrap	4	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:380:16:IMX335_WriteRegWrap	4	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:322:16:IMX335_WriteTable	16	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:399:9:IMX335_RegisterBusIO	0	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:440:9:IMX335_Init	8	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:483:9:IMX335_Start	24	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:503:9:IMX335_DeInit	0	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:520:9:IMX335_ReadID	24	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:548:9:IMX335_GetCapabilities	0	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:586:9:IMX335_SetGain	32	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:631:9:IMX335_SetExposure	40	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:684:9:IMX335_SetFrequency	8	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:738:9:IMX335_SetFramerate	8	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:785:9:IMX335_MirrorFlipConfig	0	static
+D:/Data/CodeX/Firmware/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:827:9:IMX335_SetTestPattern	16	static

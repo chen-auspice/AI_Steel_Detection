@@ -1,0 +1,5 @@
+D:/Data/CodeX/Firmware/Drivers/BSP/BUS/bsp_bus.c:28:9:bsp_i2c2_init	2
+D:/Data/CodeX/Firmware/Drivers/BSP/BUS/bsp_bus.c:40:9:bsp_i2c2_deinit	3
+D:/Data/CodeX/Firmware/Drivers/BSP/BUS/bsp_bus.c:56:9:bsp_i2c2_write_reg16	1
+D:/Data/CodeX/Firmware/Drivers/BSP/BUS/bsp_bus.c:66:9:bsp_i2c2_read_reg16	1
+D:/Data/CodeX/Firmware/Drivers/BSP/BUS/bsp_bus.c:76:9:bsp_bus_get_tick	1

@@ -1,0 +1,10 @@
+D:/Data/CodeX/Firmware/Middlewares/ST/STM32_ExtMem_Manager/user/stm32_user_driver.c:47:41:EXTMEM_DRIVER_USER_Init	1
+D:/Data/CodeX/Firmware/Middlewares/ST/STM32_ExtMem_Manager/user/stm32_user_driver.c:56:41:EXTMEM_DRIVER_USER_DeInit	1
+D:/Data/CodeX/Firmware/Middlewares/ST/STM32_ExtMem_Manager/user/stm32_user_driver.c:63:41:EXTMEM_DRIVER_USER_Read	1
+D:/Data/CodeX/Firmware/Middlewares/ST/STM32_ExtMem_Manager/user/stm32_user_driver.c:74:41:EXTMEM_DRIVER_USER_Write	1
+D:/Data/CodeX/Firmware/Middlewares/ST/STM32_ExtMem_Manager/user/stm32_user_driver.c:85:41:EXTMEM_DRIVER_USER_EraseSector	1
+D:/Data/CodeX/Firmware/Middlewares/ST/STM32_ExtMem_Manager/user/stm32_user_driver.c:95:41:EXTMEM_DRIVER_USER_MassErase	1
+D:/Data/CodeX/Firmware/Middlewares/ST/STM32_ExtMem_Manager/user/stm32_user_driver.c:102:41:EXTMEM_DRIVER_USER_Enable_MemoryMappedMode	1
+D:/Data/CodeX/Firmware/Middlewares/ST/STM32_ExtMem_Manager/user/stm32_user_driver.c:109:41:EXTMEM_DRIVER_USER_Disable_MemoryMappedMode	1
+D:/Data/CodeX/Firmware/Middlewares/ST/STM32_ExtMem_Manager/user/stm32_user_driver.c:116:41:EXTMEM_DRIVER_USER_GetMapAddress	1
+D:/Data/CodeX/Firmware/Middlewares/ST/STM32_ExtMem_Manager/user/stm32_user_driver.c:124:41:EXTMEM_DRIVER_USER_GetInfo	1

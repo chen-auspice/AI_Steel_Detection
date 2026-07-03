@@ -1,0 +1,13 @@
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:143:7:_tx_execution_initialize	1
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:193:7:_tx_execution_thread_enter	3
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:298:7:_tx_execution_thread_exit	6
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:426:7:_tx_execution_isr_enter	8
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:604:7:_tx_execution_isr_exit	7
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:731:7:_tx_execution_thread_time_reset	1
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:779:7:_tx_execution_thread_total_time_reset	2
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:848:7:_tx_execution_isr_time_reset	1
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:896:7:_tx_execution_idle_time_reset	1
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:945:7:_tx_execution_thread_time_get	1
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:993:7:_tx_execution_thread_total_time_get	1
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:1041:7:_tx_execution_isr_time_get	1
+D:/Data/CodeX/Firmware/Middlewares/ThreadX/utility/execution_profile_kit/tx_execution_profile.c:1089:7:_tx_execution_idle_time_get	1

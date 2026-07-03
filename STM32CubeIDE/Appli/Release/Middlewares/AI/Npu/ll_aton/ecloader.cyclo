@@ -1,0 +1,7 @@
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/ll_aton/ecloader.c:121:6:ec_copy_program	10
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/ll_aton/ecloader.c:239:6:ec_copy_reloc_table	9
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/ll_aton/ecloader.c:325:20:ec_get_reloc_table_ptr	3
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/ll_aton/ecloader.c:360:14:ec_get_num_relocs	2
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/ll_aton/ecloader.c:382:13:ec_get_reloc_id	3
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/ll_aton/ecloader.c:422:6:ec_reloc	6
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/ll_aton/ecloader.c:487:6:ec_reloc_by_id	7

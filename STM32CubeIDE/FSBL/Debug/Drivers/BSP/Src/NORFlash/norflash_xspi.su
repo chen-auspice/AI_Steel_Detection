@@ -1,0 +1,13 @@
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:3:6:NORFlash_XSPI_Init	16	static,ignoring_inline_asm
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:27:6:NORFlash_XSPI_Deinit	16	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:32:29:NORFlash_XSPI_SetClock	32	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:58:29:NORFlash_XSPI_EnableMapMode	112	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:93:29:NORFlash_XSPI_DisableMapMode	16	static,ignoring_inline_asm
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:104:29:NORFlash_XSPI_ConfigPHYLink	16	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:164:29:NORFlash_XSPI_CommandSendData	104	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:192:29:NORFlash_XSPI_CommandSendAddress	104	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:211:29:NORFlash_XSPI_CommandRead	104	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:239:29:NORFlash_XSPI_CommandSendAddressReadData	104	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:268:29:NORFlash_XSPI_CommandSendAddressSendData	104	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:297:29:NORFlash_XSPI_WaitStatusRegister	120	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash_xspi.c:329:29:NORFlash_XSPI_Write	104	static

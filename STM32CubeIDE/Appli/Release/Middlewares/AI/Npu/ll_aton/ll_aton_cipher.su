@@ -1,0 +1,4 @@
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/ll_aton/ll_aton_cipher.c:31:5:LL_Streng_EncryptionInit	8	static
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/ll_aton/ll_aton_cipher.c:58:5:LL_Busif_SetKeys	12	static
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/ll_aton/ll_aton_cipher.c:94:5:LL_EpochCtrl_EncryptionInit	8	static
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/ll_aton/ll_aton_cipher.c:121:5:LL_DmaCypherInit	176	static

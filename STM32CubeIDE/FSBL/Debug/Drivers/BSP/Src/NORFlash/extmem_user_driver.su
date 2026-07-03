@@ -1,0 +1,10 @@
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/extmem_user_driver.c:12:34:EXTMEM_DRIVER_USER_Init	24	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/extmem_user_driver.c:27:34:EXTMEM_DRIVER_USER_DeInit	24	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/extmem_user_driver.c:41:34:EXTMEM_DRIVER_USER_Read	32	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/extmem_user_driver.c:51:34:EXTMEM_DRIVER_USER_Write	32	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/extmem_user_driver.c:63:34:EXTMEM_DRIVER_USER_EraseSector	32	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/extmem_user_driver.c:75:34:EXTMEM_DRIVER_USER_MassErase	24	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/extmem_user_driver.c:87:34:EXTMEM_DRIVER_USER_Enable_MemoryMappedMode	24	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/extmem_user_driver.c:99:34:EXTMEM_DRIVER_USER_Disable_MemoryMappedMode	24	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/extmem_user_driver.c:111:34:EXTMEM_DRIVER_USER_GetMapAddress	24	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/extmem_user_driver.c:123:34:EXTMEM_DRIVER_USER_GetInfo	24	static

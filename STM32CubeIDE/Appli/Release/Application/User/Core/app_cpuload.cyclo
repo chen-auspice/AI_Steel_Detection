@@ -1,0 +1,3 @@
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_cpuload.c:25:6:app_cpuload_init	1
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_cpuload.c:32:6:app_cpuload_update	2
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_cpuload.c:60:6:app_cpuload_get_info	4

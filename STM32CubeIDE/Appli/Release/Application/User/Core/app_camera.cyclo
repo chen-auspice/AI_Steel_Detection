@@ -1,0 +1,11 @@
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_camera.c:42:6:app_camera_init	7
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_camera.c:78:6:app_camera_display_pipe_start	1
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_camera.c:83:6:app_camera_display_pipe_set_address	1
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_camera.c:88:6:app_camera_nn_pipe_start	1
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_camera.c:93:6:app_camera_nn_pipe_set_address	1
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_camera.c:98:6:app_camera_isp_update	1
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_camera.c:166:19:MX_DCMIPP_ClockConfig	1
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_camera.c:184:5:CMW_CAMERA_PIPE_VsyncEventCallback	5
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_camera.c:204:5:CMW_CAMERA_PIPE_FrameEventCallback	5
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_camera.c:224:6:app_camera_get_lcd_roi	1
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_camera.c:229:6:app_camera_get_nn_roi	1

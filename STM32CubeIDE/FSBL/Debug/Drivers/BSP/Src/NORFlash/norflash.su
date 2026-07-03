@@ -1,0 +1,12 @@
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:7:24:NORFlash_Init	40	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:70:24:NORFlash_Deinit	16	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:77:6:NORFlash_Reset	24	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:97:24:NORFlash_WaitBusy	32	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:120:24:NORFlash_EnableWrite	32	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:148:24:NORFlash_EnableMemoryMappedMode	32	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:161:24:NORFlash_DisableMemoryMappedMode	16	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:174:24:NORFlash_GetMemoryMappedAddress	16	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:195:24:NORFlash_EraseChip	16	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:223:24:NORFlash_EraseSector	24	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:271:24:NORFlash_Write	40	static
+D:/Data/CodeX/Firmware/Drivers/BSP/NORFlash/norflash.c:328:24:NORFlash_GetMemInfo	16	static

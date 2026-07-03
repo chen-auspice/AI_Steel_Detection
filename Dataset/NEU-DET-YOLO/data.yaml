@@ -1,0 +1,5 @@
+path: D:/Data/CodeX/AI_Steel_Detection/Dataset/NEU-DET-YOLO
+train: train/images
+val: val/images
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']

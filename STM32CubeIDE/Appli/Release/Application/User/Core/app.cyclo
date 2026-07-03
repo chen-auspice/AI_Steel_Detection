@@ -1,0 +1,11 @@
+D:/Data/CodeX/Firmware/Appli/Core/Src/app.c:408:13:key_thread_entry	7
+D:/Data/CodeX/Firmware/Appli/Core/Src/app.c:397:13:isp_thread_entry	1
+D:/Data/CodeX/Firmware/Appli/Core/Src/app.c:553:13:app_nn_norm_to_lcd	1
+D:/Data/CodeX/Firmware/Appli/Core/Src/app.c:305:13:pp_thread_entry	19
+D:/Data/CodeX/Firmware/Appli/Core/Src/app.c:141:13:app_camera_nn_pipe_frame_cb	2
+D:/Data/CodeX/Firmware/Appli/Core/Src/app.c:126:13:app_camera_display_pipe_vsync_cb	1
+D:/Data/CodeX/Firmware/Appli/Core/Src/app.c:131:13:app_camera_display_pipe_frame_cb	2
+D:/Data/CodeX/Firmware/Appli/Core/Src/app.c:458:16:app_clamp_point.isra	5
+D:/Data/CodeX/Firmware/Appli/Core/Src/app.c:374:13:dp_thread_entry	9
+D:/Data/CodeX/Firmware/Appli/Core/Src/app.c:167:13:nn_thread_entry	22
+D:/Data/CodeX/Firmware/Appli/Core/Src/app.c:102:6:app_run	1

@@ -1,0 +1,7 @@
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/Devices/STM32N6XX/npu_cache.c:6:6:npu_cache_init	0	static
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/Devices/STM32N6XX/npu_cache.c:12:6:npu_cache_enable	8	static
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/Devices/STM32N6XX/npu_cache.c:23:6:npu_cache_disable	8	static
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/Devices/STM32N6XX/npu_cache.c:32:6:npu_cache_invalidate	0	static
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/Devices/STM32N6XX/npu_cache.c:37:6:npu_cache_clean_range	0	static
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/Devices/STM32N6XX/npu_cache.c:42:6:npu_cache_clean_invalidate_range	0	static
+D:/Data/CodeX/Firmware/Middlewares/AI/Npu/Devices/STM32N6XX/npu_cache.c:47:6:NPU_CACHE_IRQHandler	0	static,ignoring_inline_asm

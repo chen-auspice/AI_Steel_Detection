@@ -1,0 +1,5 @@
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_bqueue.c:23:6:app_bqueue_init	16	static
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_bqueue.c:39:10:app_bqueue_get_free	8	static
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_bqueue.c:54:6:app_bqueue_put_free	0	static
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_bqueue.c:59:10:app_bqueue_get_ready	8	static
+D:/Data/CodeX/Firmware/Appli/Core/Src/app_bqueue.c:71:6:app_bqueue_put_ready	0	static
