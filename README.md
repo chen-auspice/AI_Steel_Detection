@@ -167,7 +167,7 @@ STM32CubeIDE/FSBL/
 
 ### 1. 准备 STM32N6 官方软件包
 
-当前 CubeIDE 工程依赖 STM32N6 官方 Software Package 中的 HAL、BSP、Middlewares、AI Runtime、Vision Models PP 和官方示例资源>。
+当前 CubeIDE 工程依赖 STM32N6 官方 Software Package 中的 HAL、BSP、Middlewares、AI Runtime、Vision Models PP 和官方示例资源。
 
 不建议使用中文路径、带空格路径或过长路径，否则 ST Edge AI、CubeIDE post-build、SigningTool 或 GNU 工具链可能出现路径解析问题。
 
