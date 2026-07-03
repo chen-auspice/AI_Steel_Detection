@@ -199,7 +199,7 @@ Model/network_data.xSPI2.bin
 5. 将生成文件同步到 `Model/` 目录。
 6. 模型文件变化后必须重新编译 `AI_Steel_Detection_Appli`，否则应用侧网络描述与权重数据可能不一致。
 
-### 4. 手动编译应用工程
+### 4. 编译应用工程
 
 1. 在 CubeIDE 中右键 `AI_Steel_Detection_Appli`。
 2. 选择 `Build Configurations > Set Active > Release`。
