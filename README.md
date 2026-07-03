@@ -4,7 +4,7 @@
 
 > 说明：本项目用于2026年全国大学生嵌入式芯片与系统设计竞赛
 
-当前部署模型面向 NEU-DET 六类缺陷：`crazing`、`inclusion`、`patches`、`pitted_surface`、`rolled-in_scale`、`scratches`。模型输入为 `256×256×3 RGB888`，部署格式为 INT8 TFLite 经 ST Edge AI / X-CUBE-AI 生成的 NPU 代码与权重数据。
+当前部署模型面向 NEU-DET 六类缺陷：`crazing` 、`inclusion` 、`patches` 、`pitted_surface` 、`rolled-in_scale` 、`scratches` 。模型输入为 `256×256×3 RGB888`，部署格式为 INT8 TFLite 经 ST Edge AI / X-CUBE-AI 生成的 NPU 代码与权重数据。
 
 ## 项目特性
 
